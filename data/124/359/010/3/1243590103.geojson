@@ -41,7 +41,7 @@
         "wk:page":"Chickland"
     },
     "wof:country":"TT",
-    "wof:geomhash":"267e70e22d161577ae0d377b5ea07157",
+    "wof:geomhash":"03ccc9a129f5132425f0613a510ab55a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -61.37589000000001,
     10.42735
 ],
-  "geometry": {"coordinates":[-61.37589000000001,10.42735],"type":"Point"}
+  "geometry": {"coordinates":[-61.37589,10.42735],"type":"Point"}
 }

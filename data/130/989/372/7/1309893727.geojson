@@ -41,7 +41,7 @@
         "wk:page":"Arnos_Vale%2C_Trinidad_and_Tobago"
     },
     "wof:country":"TT",
-    "wof:geomhash":"a0507985f22fd31ca904071f51c172d4",
+    "wof:geomhash":"7eff213a88d01c5aca76f6cf2dbf59c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -60.75666999999999,
     11.20863
 ],
-  "geometry": {"coordinates":[-60.75666999999999,11.20863],"type":"Point"}
+  "geometry": {"coordinates":[-60.75667,11.20863],"type":"Point"}
 }

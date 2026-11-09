@@ -40,7 +40,7 @@
         "wk:page":"Pointe-%C3%A0-Pierre"
     },
     "wof:country":"TT",
-    "wof:geomhash":"646a886c2d04b5009f7382a7593d21e1",
+    "wof:geomhash":"9fcdd7c294d45ed39a71581e4cb962c9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,5 +65,5 @@
     -61.46666999999999,
     10.31667
 ],
-  "geometry": {"coordinates":[-61.46666999999999,10.31667],"type":"Point"}
+  "geometry": {"coordinates":[-61.46667,10.31667],"type":"Point"}
 }

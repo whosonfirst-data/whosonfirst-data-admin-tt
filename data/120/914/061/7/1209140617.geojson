@@ -216,7 +216,7 @@
         "gn:id":3573989
     },
     "wof:country":"TT",
-    "wof:geomhash":"d1e2c11d90a4b86ed74d770d133e8ce8",
+    "wof:geomhash":"a6e840e9ddb72252ca872a8caf1ec819",
     "wof:hierarchy":[
         {
             "country_id":85632271,
@@ -241,5 +241,5 @@
     -61.36298000000001,
     10.65298
 ],
-  "geometry": {"coordinates":[-61.36298000000001,10.65298],"type":"Point"}
+  "geometry": {"coordinates":[-61.36298,10.65298],"type":"Point"}
 }

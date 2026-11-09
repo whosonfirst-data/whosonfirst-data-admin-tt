@@ -45,7 +45,7 @@
         "wk:page":"Piparo"
     },
     "wof:country":"TT",
-    "wof:geomhash":"c1b57ecd815f4a6b2cc9e55379f58afb",
+    "wof:geomhash":"fdf245d1a8718dd8b0b4795afe95998a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -61.34119000000001,
     10.33975
 ],
-  "geometry": {"coordinates":[-61.34119000000001,10.33975],"type":"Point"}
+  "geometry": {"coordinates":[-61.34119,10.33975],"type":"Point"}
 }

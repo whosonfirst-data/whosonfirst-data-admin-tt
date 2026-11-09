@@ -45,7 +45,7 @@
         "wk:page":"Iere_Village"
     },
     "wof:country":"TT",
-    "wof:geomhash":"c935fa357488a144382ec62a822875b9",
+    "wof:geomhash":"c3838102a4b8beb6c265cfb019668a91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,5 +70,5 @@
     -61.38894000000001,
     10.28684
 ],
-  "geometry": {"coordinates":[-61.38894000000001,10.28684],"type":"Point"}
+  "geometry": {"coordinates":[-61.38894,10.28684],"type":"Point"}
 }

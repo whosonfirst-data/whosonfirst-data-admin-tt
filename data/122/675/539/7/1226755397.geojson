@@ -47,7 +47,7 @@
         "wk:page":"Guayaguayare"
     },
     "wof:country":"TT",
-    "wof:geomhash":"d691fc140b143ee9c248fddd8b2b7726",
+    "wof:geomhash":"52d431566064e176ba2aa5432f011082",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -61.03214000000001,
     10.14717
 ],
-  "geometry": {"coordinates":[-61.03214000000001,10.14717],"type":"Point"}
+  "geometry": {"coordinates":[-61.03214,10.14717],"type":"Point"}
 }

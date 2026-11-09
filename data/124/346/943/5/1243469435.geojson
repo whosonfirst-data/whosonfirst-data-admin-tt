@@ -46,7 +46,7 @@
         "wk:page":"Trincity"
     },
     "wof:country":"TT",
-    "wof:geomhash":"ec043ce714e2e9dcbc6c15ab19e9293f",
+    "wof:geomhash":"b2e3adc8f6dbbc0b08da1ee6bddbc818",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -61.35469000000001,
     10.6353
 ],
-  "geometry": {"coordinates":[-61.35469000000001,10.6353],"type":"Point"}
+  "geometry": {"coordinates":[-61.35469,10.6353],"type":"Point"}
 }
